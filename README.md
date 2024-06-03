@@ -1,9 +1,9 @@
-<H3>Project Statement -<H3/>
+<H3>Project Statement -</H3>
   - deploy the server in 2 availability zones by using "auto scalling group" and "application load balancer". 
   - server receive requests through load balancer.
   - server connect to internet by using NAT gateway.
   - deploy NAT gateway in both zones. <br>
-<H3>Solutions - <H3/><br>
+<H3>Solutions - </H3><br>
 
 creating vpc : <br>
 <img width="359" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/4d2be84e-79d9-4414-8125-7b283f2b7862"><br>
