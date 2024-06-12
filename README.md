@@ -39,3 +39,5 @@ creating Auto Scaling Group : <br>
 
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/4b17c8b2-1779-4eff-b707-f59c9b027c1f) <br>
 
+**SCP** 
+scp -i C:\Users\admin\Downloads\devopsnetwork.pem C:\Users\admin\Downloads\devopsnetwork.pem ubuntu@<public-ip-of-bastion-host>:/home/ubuntu <br>
