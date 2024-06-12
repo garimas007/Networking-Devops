@@ -16,6 +16,9 @@ subnet configuration map : <br>
 
 creating Auto Scaling Group : <br>
 <img width="557" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/5c6063ef-f004-40be-a536-9877fd122040"><br>
+
 <img width="529" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/e35fdaa0-fbd3-48ac-937f-d7c33f4c49f7"><br>
+
 <img width="550" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/3665cb1e-89de-44aa-bd73-45bc64661d77"><br>
+
 <img width="554" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/48d5cc55-48f7-4bf3-9633-4a16afe1668a"><br>
