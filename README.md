@@ -22,3 +22,7 @@ creating Auto Scaling Group : <br>
 <img width="550" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/3665cb1e-89de-44aa-bd73-45bc64661d77"><br>
 
 <img width="554" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/48d5cc55-48f7-4bf3-9633-4a16afe1668a"><br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/462e18b7-be0d-43a2-8fce-41446284e651)
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/462e18b7-be0d-43a2-8fce-41446284e651)
+<br>
