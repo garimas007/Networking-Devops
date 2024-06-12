@@ -32,3 +32,10 @@ creating Auto Scaling Group : <br>
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/93c52c2d-c46d-4d77-94ce-739116fe0443) <br>
 
 **Bastion-Host (Bridge between public and private subnet)** : <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/ed20836e-cfea-4977-9964-07a51e257505) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/48fb1f31-1623-4d1c-b8be-91ba7002e3a2) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/4b17c8b2-1779-4eff-b707-f59c9b027c1f) <br>
+
