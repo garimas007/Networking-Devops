@@ -5,16 +5,16 @@
   - deploy NAT gateway in both zones. <br>
 <H3>Solutions - </H3><br>
 
-creating vpc : <br>
+**creating vpc :** <br>
 <img width="359" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/4d2be84e-79d9-4414-8125-7b283f2b7862"><br>
 
-NAT gateway : <br>
+**NAT gateway :** <br>
 <img width="344" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/dec1c834-6685-4d76-8994-1e6951b01f9b"><br>
 
-subnet configuration map : <br>
+**subnet configuration map :** <br>
 <img width="775" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/7360ce4d-7d2c-418c-8d99-7feb2f181164"><br>
 
-creating Auto Scaling Group : <br>
+**creating Launch Template for ASG :** <br>
 <img width="557" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/5c6063ef-f004-40be-a536-9877fd122040"><br>
 
 <img width="529" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/e35fdaa0-fbd3-48ac-937f-d7c33f4c49f7"><br>
@@ -23,6 +23,7 @@ creating Auto Scaling Group : <br>
 
 <img width="554" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/48d5cc55-48f7-4bf3-9633-4a16afe1668a"><br>
 
+**creating Auto Scaling Group :** <br>
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/462e18b7-be0d-43a2-8fce-41446284e651) <br>
 
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/a27b5c05-5579-44c9-850d-7bdb9230a966) <br>
@@ -39,10 +40,18 @@ creating Auto Scaling Group : <br>
 
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/4b17c8b2-1779-4eff-b707-f59c9b027c1f) <br>
 
-**SCP** 
+**SCP**: <br>
 scp -i C:\Users\admin\Downloads\bastionhostdevopsnetwork.pem C:\Users\admin\Downloads\devopsnetwork.pem ubuntu@<public-ip-of-bastion-host>:/home/ubuntu <br>
 change the pem file permisiion to 400 for making it secure <br>
 
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/449275ae-d034-40cc-9792-00468e081d59) <br>
 
+**creating application load balancer :** <br>
+Target Group for both private instance to creaate load balancer. <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/030a1550-ebcd-425c-8748-59c9190b394f) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/d9d77e25-51e3-45c3-99a8-c9bdd0e52965) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/a7730f45-18da-4486-8fee-8aa28ff5b21d) <br>
 
