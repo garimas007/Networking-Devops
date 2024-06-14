@@ -5,6 +5,8 @@
   - deploy NAT gateway in both zones. <br>
 <H3>Solutions - </H3><br>
 
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/fb032115-bb0a-4b25-8e1c-9f80b81ad892) <br>
+
 **creating vpc :** <br>
 <img width="359" alt="image" src="https://github.com/garimas007/Networking-Devops/assets/146625788/4d2be84e-79d9-4414-8125-7b283f2b7862"><br>
 
