@@ -51,7 +51,17 @@ Target Group for both private instance to creaate load balancer. <br>
 
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/030a1550-ebcd-425c-8748-59c9190b394f) <br>
 
-![image](https://github.com/garimas007/Networking-Devops/assets/146625788/d9d77e25-51e3-45c3-99a8-c9bdd0e52965) <br>
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/0bb58dc2-0d56-4819-9c33-d257645cc4f9) <br>
 
-![image](https://github.com/garimas007/Networking-Devops/assets/146625788/a7730f45-18da-4486-8fee-8aa28ff5b21d) <br>
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/a93a4486-31bd-477b-95b6-d553593ffd75) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/d24518a9-0af4-4687-bc4b-89c6c0b9d873) <br>
+
+**ASG :** <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/d744e143-0f16-4d9f-8d12-d2fc40a18624) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/bed3fb71-f9d8-493a-945e-cc87b1057e25) <br>
+
+![image](https://github.com/garimas007/Networking-Devops/assets/146625788/f002e33a-3a20-4de3-a91c-2ba1598d5d31) <br>
 
