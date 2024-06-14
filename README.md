@@ -41,7 +41,7 @@
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/4b17c8b2-1779-4eff-b707-f59c9b027c1f) <br>
 
 **SCP**: <br>
-scp -i C:\Users\admin\Downloads\bastionhostdevopsnetwork.pem C:\Users\admin\Downloads\devopsnetwork.pem ubuntu@<public-ip-of-bastion-host>:/home/ubuntu <br>
+scp -i C:\Users\admin\Downloads\bastionhostdevopsnetwork.pem C:\Users\admin\Downloads\devopsnetwork.pem ubuntu@(public-ip-of-bastion-host):/home/ubuntu <br>
 change the pem file permisiion to 400 for making it secure <br>
 
 ![image](https://github.com/garimas007/Networking-Devops/assets/146625788/449275ae-d034-40cc-9792-00468e081d59) <br>
